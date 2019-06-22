@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-image: url("http://www.sclance.com/backgrounds/dragon-ball-z-background/dragon-ball-z-background_855628.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  padding: 20px;
+  color: black;
+  font-size: 30px;
+}
+
+.footer {
+  margin-top: 20px;
+  background-color: rgb(24, 21, 21);
+  color: white;
+}
+.score {
+  color: darkblue;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

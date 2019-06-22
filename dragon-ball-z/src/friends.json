@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Goku",
+      "image": "https://dragonballwiki.de/w/images/c/c0/SonGoku.png",
+      "occupation": "Super Saiyan God ",
+      "location": "Universe 7"
+    },
+    {
+      "id": 2,
+      "name": "Gohan",
+      "image":"https://pm1.narvii.com/6093/be5543a7a8a0c172a90713ca1d84985a23009468_hq.jpg",
+      "occupation": "Super Saiyan",
+      "location": "Earth"
+    },
+    {
+      "id": 3,
+      "name": "Goten",
+      "image": "https://upload.wikimedia.org/wikipedia/hu/4/41/Dragon_Ball_szerepl%C5%91_-_Son_Goten.png",
+      "occupation": "Trouble Maker",
+      "location": "Earth"
+    },
+    {
+      "id": 4,
+      "name": "Piccolo",
+      "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/piccolo-dragon-ball-z-resurrection-f-2.7.jpg",
+      "occupation": "Martial arts",
+      "location": "Namekians"
+    },
+    {
+      "id": 5,
+      "name": "Krillin",
+      "image": "https://files.gamebanana.com/img/ss/srends/5bdf6ee738bd4.jpg",
+      "occupation": "Martial Arts",
+      "location": "Earth"
+    },
+    {
+      "id": 6,
+      "name": "Vegeta",
+      "image": "https://vignette.wikia.nocookie.net/teamfourstar/images/e/ec/VegetaAndroidSaga.png/revision/latest?cb=20160227192509",
+      "occupation": "Super Saiyan God ",
+      "location": "Universe 7"
+    },
+    {
+      "id": 7,
+      "name": "Tronks",
+      "image": "https://i.ebayimg.com/images/g/ElIAAOSwjuBZoz5i/s-l300.jpg",
+      "occupation": "Future traveler",
+      "location": "Earth"
+    },
+    {
+      "id": 8,
+      "name": "Bulma",
+      "image": "https://vignette.wikia.nocookie.net/dragonuniverse/images/c/cd/Bulma23rdTenkaichiBudokai.png/revision/latest?cb=20160205025729",
+      "occupation": "",
+      "location": "Earth"
+    },
+    {
+      "id": 9,
+      "name": "Android 18",
+      "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/android-18-dragon-ball-z-the-history-of-trunks-92.4.jpg",
+      "occupation": "Villian",
+      "location": "New York"
+    },
+    {
+      "id": 10,
+      "name": "Master Roshi",
+      "image": "https://static.comicvine.com/uploads/original/10/104544/4999964-3116780124-29882.jpg",
+      "occupation": "Martial Arts",
+      "location": "Earth"
+    },
+    {
+      "id": 11,
+      "name": "Beerus",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Beerus_Battle_of_Gods.jpg/220px-Beerus_Battle_of_Gods.jpg",
+      "occupation": "Good of destruction",
+      "location": "Universe 7"
+    },
+    {
+      "id": 12,
+      "name": "Whis",
+      "image": "https://scontent-iad3-1.cdninstagram.com/vp/2ea3eb7d90150e5e7b48901fa3f4417f/5D98486A/t51.2885-15/e35/61424978_333469393993482_1375458173426963435_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com",
+      "occupation": "Beeru's trainer",
+      "location": "Universe 7"
+    }
+    
+  ]
